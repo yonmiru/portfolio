@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-   <section>
-    <h1 className="font-md">What is life</h1>
-   </section>
-  )
+    <main className="absolute -z-1">
+      <div></div>
+    </main>
+  );
 }
